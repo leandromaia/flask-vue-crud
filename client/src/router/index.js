@@ -1,4 +1,6 @@
-/*eslint linebreak-style: ["error", "windows"]*/
+/*
+  eslint linebreak-style: ["error", "windows"]
+*/
 import Vue from 'vue';
 import Router from 'vue-router';
 import Books from '../components/Books.vue';
